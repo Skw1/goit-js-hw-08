@@ -23,7 +23,7 @@ function galleryList(arr) {
         .join('');
 }
 
-let bigGallery = new SimpleLightbox('.gallery__item a', {
+let overlayGallery = new SimpleLightbox('.gallery__item a', {
   captionsData: 'alt',
   captionDelay: 250,
   
