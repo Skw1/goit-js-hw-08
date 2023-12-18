@@ -28,3 +28,4 @@ let bigGallery = new SimpleLightbox('.gallery__item a', {
   captionDelay: 250,
   
 });
+ 
