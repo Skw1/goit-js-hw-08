@@ -26,6 +26,5 @@ function galleryList(arr) {
 let overlayGallery = new SimpleLightbox('.gallery__item a', {
   captionsData: 'alt',
   captionDelay: 250,
-  
 });
  
